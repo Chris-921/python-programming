@@ -1,5 +1,3 @@
-<img width="1208" alt="ants_diagram" src="https://github.com/Chris-921/python-programming/assets/112040075/c1ee5bef-f3a9-467d-92d4-50a5f512652d"># python-programming
-
 ## Introduction 
 
 Welcome to the Abstraction Techniques for Program Complexity Management repository. This project focuses on advanced abstraction techniques that play a fundamental role in managing and simplifying program complexity.
