@@ -1,6 +1,6 @@
 # python-programming
 
-## Introduction
+## Introduction 
 
 Welcome to the Abstraction Techniques for Program Complexity Management repository. This project focuses on advanced abstraction techniques that play a fundamental role in managing and simplifying program complexity.
 
