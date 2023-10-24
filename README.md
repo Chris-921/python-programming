@@ -62,7 +62,7 @@ Ants. Players place an ant into the colony by selecting from the available ant t
 
 Bees. In this game, bees are the antagonistic forces that the player must defend the ant colony from. Each turn, a bee either advances to the next place in the tunnel if no ant is in its way, or it stings the ant in its way. Bees win when at least one bee reaches the end of a tunnel.
 
-#### card game：
+#### Card game：
 This game is inspired by the similarly named Magic: The Gathering. The goals of this are to practice object-oriented programming as well as to try implementing a shorter game than some of the other projects in this repo.
 
 * rules:
