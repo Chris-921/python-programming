@@ -34,6 +34,11 @@ Example:
   5 is a prime number, so Player 0 instantly gains two points, so that their score increases to 7 (7, 0)
   Player 1 then takes their turn.
 
+#### Cat game:
+A program that measures typing speed. Additionally, it will implement typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by typeracer.
+
+demo: https://cats.cs61a.org/  
+
 ---
 
 Language: Python
