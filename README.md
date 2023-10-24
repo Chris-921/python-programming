@@ -13,7 +13,7 @@ This repository explores a comprehensive set of abstraction techniques, helping 
 ### Procedural Abstraction:  
 Simplify your code through modularization, making it easier to understand and maintain.
 
-###Control Abstraction:
+### Control Abstraction:
 Utilize recursion, higher-order functions, generators, and streams to streamline your code control flow and improve code readability.
 
 ### Data Abstraction: 
