@@ -8,19 +8,7 @@ Welcome to the Abstraction Techniques for Program Complexity Management reposito
 
 ## Key Abstraction Techniques Covered
 
-This repository explores a comprehensive set of abstraction techniques, helping you tackle complex programming challenges with elegance and efficiency:
-
-### Procedural Abstraction:  
-Simplify your code through modularization, making it easier to understand and maintain.
-
-### Control Abstraction:
-Utilize recursion, higher-order functions, generators, and streams to streamline your code control flow and improve code readability.
-
-### Data Abstraction: 
-Harness the power of interfaces, objects, classes, and generic operators to enhance data handling and manipulation in your programs.
-
-### Language Abstraction: 
-Explore the world of interpreters and macros to achieve high-level language abstraction, empowering you to create more expressive and efficient code.
+Techniques include procedural abstraction; control abstraction using recursion, higher-order functions, generators, and streams; data abstraction using interfaces, objects, classes, and generic operators; and language abstraction using interpreters and macros.
 
 ---
 
