@@ -37,6 +37,10 @@ Example:
 #### Cat game:
 A program that measures typing speed. Additionally, it will implement typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by typeracer.
 
+Part 1: Typing
+Part 2: Autocorrect
+Part 3: Multiplayer
+
 demo: https://cats.cs61a.org/  
 
 ---
