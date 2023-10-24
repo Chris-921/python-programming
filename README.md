@@ -62,6 +62,25 @@ Ants. Players place an ant into the colony by selecting from the available ant t
 
 Bees. In this game, bees are the antagonistic forces that the player must defend the ant colony from. Each turn, a bee either advances to the next place in the tunnel if no ant is in its way, or it stings the ant in its way. Bees win when at least one bee reaches the end of a tunnel.
 
+#### card game：
+This game is inspired by the similarly named Magic: The Gathering. The goals of this are to practice object-oriented programming as well as to try implementing a shorter game than some of the other projects in this repo.
+
+* rules:
+
+There are two players. Each player has a hand of cards and a deck, and at the start of each round, each player draws a random card from their deck. If a player's deck is empty when they try to draw, they will automatically lose the game.
+
+Cards have a name, an attack value, and a defense value. Each round, each player chooses one card to play from their own hands. The cards' power values are then calculated and compared. The card with the higher power wins the round. Each played card's power value is calculated as follows:
+
+(player card's attack) - (opponent card's defense)
+
+For example, let's say Player 1 plays a card with 2000 attack and 1000 defense and Player 2 plays a card with 1500 attack and 3000 defense. Their cards' powers are calculated as:
+
+P1: 2000 - 3000 = 2000 - 3000 = -1000
+P2: 1500 - 1000 = 1500 - 1000 = 500
+So Player 2 would win this round.
+
+The first player to win 8 rounds wins the match!
+
 ---
 
 Language: Python
