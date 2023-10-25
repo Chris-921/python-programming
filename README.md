@@ -81,6 +81,10 @@ So Player 2 would win this round.
 
 The first player to win 8 rounds wins the match!
 
+#### Scheme:
+
+Developed an interpreter for a subset of the Scheme language. 
+
 ---
 
 Language: Python
